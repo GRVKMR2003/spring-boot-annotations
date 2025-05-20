@@ -1,4 +1,4 @@
-# Spring Boot Important Annotations
+# Spring Boot top Important Annotations
 
 Spring Boot provides several annotations that simplify development by handling configurations, dependency injections, and data handling. Below is a list of key annotations with examples.
 
